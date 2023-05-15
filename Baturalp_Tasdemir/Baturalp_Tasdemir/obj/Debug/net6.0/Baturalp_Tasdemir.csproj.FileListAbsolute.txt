@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.AssemblyInfo.cs
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\bin\Debug\net6.0\Baturalp_Tasdemir.exe
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\bin\Debug\net6.0\Baturalp_Tasdemir.deps.json
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\bin\Debug\net6.0\Baturalp_Tasdemir.runtimeconfig.json
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\bin\Debug\net6.0\Baturalp_Tasdemir.dll
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\bin\Debug\net6.0\Baturalp_Tasdemir.pdb
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.dll
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\refint\Baturalp_Tasdemir.dll
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.pdb
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\Baturalp_Tasdemir.genruntimeconfig.cache
+C:\Users\user\Desktop\Baturalp_Tasdemir\Baturalp_Tasdemir\obj\Debug\net6.0\ref\Baturalp_Tasdemir.dll

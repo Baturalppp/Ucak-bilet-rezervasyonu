@@ -1,0 +1,13 @@
+Brezilya,São Paulo,Guarulhos Uluslararası Havalimanı
+Yunanistan,Atina,Elefterios Venizelos Uluslararası Havalimanı
+Türkiye,Ankara,Esenboğa Havalimanı
+Almanya,Frankfurt,Frankfurt Havalimanı
+Hollanda,Amsterdam,Schiphol Havalimanı
+İtalya,Milano,Milano Malpensa Havalimanı
+Almanya,Berlin,Berlin Schönefeld Havalimanı
+Rusya,Moskova,Vnukovo Uluslararası Havaliman
+ABD,Los Angeles,Los Angeles Uluslararası Havaalanı
+İtalya,Roma,Fiumicino Havaalanı
+Türkiye,İzmir,Adnan Menderes Havaalanı
+Yunanistan,Atina,Elefterios Venizelos Havaalanı
+Hollanda,Amsterdam,Schiphol Havaalanı 
